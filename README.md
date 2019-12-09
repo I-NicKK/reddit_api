@@ -18,7 +18,8 @@
 ### Distribution
 
 We have our project uploaded on Github from where it can be accessed at any point in time. 
-[github.com](https://www.google.com)
+[github.com](https://github.com/I-NicKK/reddit_api)
+![distribution](https://imgur.com/qJf7eVO.png)
 
 ##### Data Distribution
 ![distribution](https://i.imgur.com/pQKNaVW.png)
